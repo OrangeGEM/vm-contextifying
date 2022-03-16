@@ -1,0 +1,25 @@
+{
+  "name": "vm-contextifying",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon \"clear\" \"node index.js\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeMGE-ITP/vm-contextifying.git"
+  },
+  "author": "Orange (Vitalij)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrangeMGE-ITP/vm-contextifying/issues"
+  },
+  "homepage": "https://github.com/OrangeMGE-ITP/vm-contextifying#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "vm": "^0.1.0"
+  }
+}
